@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Onur
 
 💻 Computer Programming Student  
-🚀 Focused on Software Development, SQL, and .NET  
+🚀 Focused on Software Development
 
 ---
 
