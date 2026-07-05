@@ -16,8 +16,8 @@
 - 💻 C#, .NET
 - ☕ Java
 - 🐍 Python
+- - 🌐 HTML, CSS, JavaScript, ASP.NET Web Forms
 - 🗄️ SQL, SQL Server, MySQL
-- 🌐 HTML, CSS, JavaScript, ASP.NET Web Forms
 - 🤖 Basic AI & Machine Learning
 
 ---
