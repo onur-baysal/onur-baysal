@@ -1,28 +1,34 @@
 # Hi there 👋 I'm Onur
 
-💻 Computer Programming Student  
-🚀 Focused on Software Development
+💻 Computer Programming Graduate
 
 ---
+## About Me
 
-## 🧠 About Me
-- I improve myself in **SQL, .NET, Java, and Unity**
-- I build projects to strengthen my **software development skills**
-- Interested in **data, backend systems, and problem solving**
-
+- Computer Programming graduate from Yaşar University (GPA: 3.37/4.00)
+- Interested in backend development, databases, and software engineering
+- I enjoy building software with C#, Java, and Python
+- Currently exploring applied machine learning and data-driven AI solutions
 ---
 
-## ⚙️ Technologies
-- 💾 SQL / MySQL  
-- 💻 C# / .NET  
+## Technologies
+
+- 💻 C#, .NET
 - ☕ Java
-- 📱 Android  
-- 🎮 Unity  
-- 🧠 Basic AI & Machine Learning  
+- 🐍 Python
+- 🗄️ SQL, SQL Server, MySQL
+- 🌐 HTML, CSS, JavaScript, ASP.NET Web Forms
+- 🤖 Basic AI & Machine Learning
 
 ---
 
-## 📌 Goals
-- Become a strong software developer  
-- Work on real-world projects  
-- Continuously improve and learn new technologies  
+## Featured Projects
+
+### 🏋️ Workout Tracker
+Web application built with HTML, CSS, JavaScript and Firebase featuring authentication and workout tracking.
+
+### 🚗 Car Rental System
+Desktop application built with Java Swing and SQLite for managing vehicle rental operations.
+
+### 🥊 UFC Fight Night Predictor
+Machine Learning web application built with Python and Streamlit, analyzing 4,456 fighters and 8,552 bouts using XGBoost Classifier.
