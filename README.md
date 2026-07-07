@@ -5,7 +5,7 @@
 ---
 ## About Me
 
-- Computer Programming graduate from Yaşar University (GPA: 3.37/4.00)
+- Computer Programming graduate from Yasar University (GPA: 3.37/4.00)
 - Interested in backend development, databases, and software engineering
 - I enjoy building software with C#, Java, and Python
 - Currently exploring applied machine learning and data-driven AI solutions
